@@ -1,6 +1,6 @@
 # Hi, I'm Alvi 👋
 
-- 🎓 Computer Science student at North South University,
+- 🎓 Final year Computer Science student at North South University,
 - 🤖 Interested in Artificial Intelligence, Machine Learning, and building intelligent systems
 - 🐍 Python developer exploring AI research and backend engineering
 - 🌏 Based in Dhaka, Bangladesh
